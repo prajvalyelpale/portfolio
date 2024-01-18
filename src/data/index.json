@@ -1,0 +1,183 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Project-1.jpg",
+      "title": "Weather App",
+      "description": "Crafted a dynamic React weather app with OpenWeather API integration, delivering real-time forecasts for an engaging user experience.",
+      "link": "Link",
+      "url": "https://prajvalyelpale.github.io/weather-app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/project-2.jpg",
+      "title": "Chat App",
+      "description": "Crafted a dynamic MERN stack chat app with real-time features using Socket.IO, enhancing seamless communication and user engagement.",
+      "link": "Link",
+      "url": "https://"
+    },
+    {
+      "id": "3",
+      "src": "./img/project-3.jpg",
+      "title": "Offline Wallet",
+      "description": "Crafted an innovative offline wallet prototype with HTML, CSS, JavaScript, PHP, and MySQL for secure and seamless transactions.",
+      "link": "Link",
+      "url": "https://"
+    }
+  ],
+  "prof": [
+    {
+      "id": "1",
+      "title": "HTML",
+      "src": "./img/skill_icons/html.png"
+    },
+    {
+      "id": "2",
+      "title": "CSS",
+      "src": "./img/skill_icons/css.png"
+    },
+    {
+      "id": "3",
+      "title": "JS",
+      "src": "./img/skill_icons/js.png"
+    },
+    {
+      "id": "4",
+      "title": "React",
+      "src": "./img/skill_icons/react.png"
+    },
+    {
+      "id": "5",
+      "title": "MongoDB",
+      "src": "./img/skill_icons/mongo.png"
+    },
+    {
+      "id": "6",
+      "title": "Express.js",
+      "src": "./img/skill_icons/express-js.png"
+    },
+    {
+      "id": "7",
+      "title": "C",
+      "src": "./img/skill_icons/C.png"
+    },
+    {
+      "id": "8",
+      "title": "C++",
+      "src": "./img/skill_icons/cpp.png"
+    }
+  ],
+  "gk": [
+    {
+      "id": "0",
+      "title": "JAVA",
+      "src": "./img/skill_icons/java.png"
+    },
+    {
+      "id": "1",
+      "title": "OOP",
+      "src": "./img/skill_icons/oop.png"
+    },
+    {
+      "id": "2",
+      "title": "DSA",
+      "src": "./img/skill_icons/dsa.png"
+    },
+    {
+      "id": "3",
+      "title": "Bootstrap",
+      "src": "./img/skill_icons/boot.png"
+    },
+    {
+      "id": "4",
+      "title": "Next.js",
+      "src": "./img/skill_icons/next.png"
+    },
+    {
+      "id": "5",
+      "title": "OS",
+      "src": "./img/skill_icons/os.png"
+    },
+    {
+      "id": "6",
+      "title": "DBMS",
+      "src": "./img/skill_icons/dbms.png"
+    },
+    {
+      "id": "5",
+      "title": "JWT",
+      "src": "./img/skill_icons/jwt.png"
+    }
+  ],
+  "fam": [
+    {
+      "id": "1",
+      "title": "VS Code",
+      "src": "./img/skill_icons/vs.png"
+    },
+    {
+      "id": "2",
+      "title": "GitHub",
+      "src": "./img/skill_icons/git.png"
+    },
+    {
+      "id": "3",
+      "title": "Figma",
+      "src": "./img/skill_icons/fig.png"
+    },
+    {
+      "id": "4",
+      "title": "Tailwind",
+      "src": "./img/skill_icons/tail.png"
+    },
+    {
+      "id": "5",
+      "title": "JIRA",
+      "src": "./img/skill_icons/jira.png"
+    },
+    {
+      "id": "6",
+      "title": "Agile",
+      "src": "./img/skill_icons/agile.png"
+    },
+    {
+      "id": "7",
+      "title": "Machine Learning",
+      "src": "./img/skill_icons/ml.png"
+    },
+    {
+      "id": "8",
+      "title": "Cloud",
+      "src": "./img/skill_icons/aws.png"
+    }
+  ],
+  "profiles":[
+    {
+      "id": "1",
+      "link": "https://leetcode.com/prajval2003/",
+      "title":"LEETCODE",
+      "desc":"Solved 400+ DSA Questions. MAX STREAK(93 Days)",
+      "src": "./img/skill_icons/leet.png"
+    },
+    {
+      "id": "2",
+      "link": "https://www.codechef.com/users/prajvalyelpale",
+      "title": "CODECHEF",
+      "desc": "2⭐ Rating. Contest:MAX(1541)",
+      "src": "./img/skill_icons/ch.jpeg"
+    },
+    {
+      "id": "3",
+      "link": "https://codeforces.com/profile/prajvaldyelpale",
+      "title": "CODEFORCES",
+      "desc": "Solved 100+ Competative coding problems. (Newbie) ",
+      "src": "./img/skill_icons/cf.png"
+    },{
+      "id": "4",
+      "link": "https://auth.geeksforgeeks.org/user/prajval22110945",
+      "title": "GEEKFORGEEKS",
+      "desc": "Solved 200+ DSA Questions.",
+      "src": "./img/skill_icons/gfg.png"
+    }
+  ]
+}
